@@ -1,0 +1,56 @@
+Query,Sentiment,Intent,Response
+What is the price of a 2BHK flat?,Neutral,Inquiry,"The price for a 2BHK flat starts at $80,000. Would you like to know about any specific location?"
+Can I get a discount on the flat?,Negative,Discount Request,We currently offer special discounts for early bookings. Can I share more details with you?
+Do you have any combo deals for 2BHK and parking space?,Positive,Interest in Combo,"Yes, we have a combo deal that includes a 2BHK and parking space at a discounted price of $85,000."
+Is there any property available in the city center?,Neutral,Inquiry,"Yes, we have properties available in the city center starting at $100,000. Would you like to schedule a site visit?"
+Why is the price so high?,Negative,Concern,Our properties are priced based on prime locations and top-quality construction. I can help you explore financing options if you're interested.
+What are the amenities available?,Neutral,Inquiry,"Our flats include amenities like a swimming pool, gym, and children's play area. The prices are inclusive of these."
+Is there any flat available under 50 lakhs?,Neutral,Budget Inquiry,"Yes, we have flats starting at ₹45 lakhs. Would you like to know the locations?"
+Do you have any ready-to-move flats?,Neutral,Inquiry,"Yes, we have several ready-to-move flats. Prices start at ₹75 lakhs. Can I provide you with more details?"
+What is the cost of a 3BHK flat?,Neutral,Inquiry,A 3BHK flat starts at ₹1 crore. Would you like to discuss financing options?
+Is there a loan facility available?,Positive,Financing,"Yes, we have tie-ups with several banks offering home loans at attractive interest rates."
+Can I visit the site before booking?,Neutral,Inquiry,Absolutely! We can schedule a site visit at your convenience. Let us know your preferred time.
+What is the booking amount?,Neutral,Inquiry,The booking amount for our flats starts at ₹1 lakh. Would you like to proceed?
+Are there any hidden charges?,Negative,Concern,We believe in transparency. All charges are included in the quoted price. Feel free to ask for a breakdown.
+What is the carpet area of the 2BHK flat?,Neutral,Inquiry,The carpet area of a 2BHK flat is approximately 800 sq. ft. Let us know if you need more details.
+Do you have flats with modular kitchens?,Positive,Feature Inquiry,"Yes, our flats come with fully-equipped modular kitchens at no additional cost."
+What are the amenities available?,Neutral,Inquiry,"Our flats include amenities like a swimming pool, gym, and children's play area. The prices are inclusive of these."
+Is there any flat available under 50 lakhs?,Neutral,Budget Inquiry,"Yes, we have flats starting at ₹45 lakhs. Would you like to know the locations?"
+Do you have any ready-to-move flats?,Neutral,Inquiry,"Yes, we have several ready-to-move flats. Prices start at ₹75 lakhs. Can I provide you with more details?"
+What is the cost of a 3BHK flat?,Neutral,Inquiry,A 3BHK flat starts at ₹1 crore. Would you like to discuss financing options?
+Is there a loan facility available?,Positive,Financing,"Yes, we have tie-ups with several banks offering home loans at attractive interest rates."
+Can I visit the site before booking?,Neutral,Inquiry,Absolutely! We can schedule a site visit at your convenience. Let us know your preferred time.
+What is the booking amount?,Neutral,Inquiry,The booking amount for our flats starts at ₹1 lakh. Would you like to proceed?
+Are there any hidden charges?,Negative,Concern,We believe in transparency. All charges are included in the quoted price. Feel free to ask for a breakdown.
+What is the carpet area of the 2BHK flat?,Neutral,Inquiry,The carpet area of a 2BHK flat is approximately 800 sq. ft. Let us know if you need more details.
+Do you have flats with modular kitchens?,Positive,Feature Inquiry,"Yes, our flats come with fully-equipped modular kitchens at no additional cost."
+What are the amenities available?,Neutral,Inquiry,"Our flats include amenities like a swimming pool, gym, and children's play area. The prices are inclusive of these."
+Is there any flat available under 50 lakhs?,Neutral,Budget Inquiry,"Yes, we have flats starting at ₹45 lakhs. Would you like to know the locations?"
+Do you have any ready-to-move flats?,Neutral,Inquiry,"Yes, we have several ready-to-move flats. Prices start at ₹75 lakhs. Can I provide you with more details?"
+What is the cost of a 3BHK flat?,Neutral,Inquiry,A 3BHK flat starts at ₹1 crore. Would you like to discuss financing options?
+Is there a loan facility available?,Positive,Financing,"Yes, we have tie-ups with several banks offering home loans at attractive interest rates."
+Can I visit the site before booking?,Neutral,Inquiry,Absolutely! We can schedule a site visit at your convenience. Let us know your preferred time.
+What is the booking amount?,Neutral,Inquiry,The booking amount for our flats starts at ₹1 lakh. Would you like to proceed?
+Are there any hidden charges?,Negative,Concern,We believe in transparency. All charges are included in the quoted price. Feel free to ask for a breakdown.
+What is the carpet area of the 2BHK flat?,Neutral,Inquiry,The carpet area of a 2BHK flat is approximately 800 sq. ft. Let us know if you need more details.
+Do you have flats with modular kitchens?,Positive,Feature Inquiry,"Yes, our flats come with fully-equipped modular kitchens at no additional cost."
+What are the amenities available?,Neutral,Inquiry,"Our flats include amenities like a swimming pool, gym, and children's play area. The prices are inclusive of these."
+Is there any flat available under 50 lakhs?,Neutral,Budget Inquiry,"Yes, we have flats starting at ₹45 lakhs. Would you like to know the locations?"
+Do you have any ready-to-move flats?,Neutral,Inquiry,"Yes, we have several ready-to-move flats. Prices start at ₹75 lakhs. Can I provide you with more details?"
+What is the cost of a 3BHK flat?,Neutral,Inquiry,A 3BHK flat starts at ₹1 crore. Would you like to discuss financing options?
+Is there a loan facility available?,Positive,Financing,"Yes, we have tie-ups with several banks offering home loans at attractive interest rates."
+Can I visit the site before booking?,Neutral,Inquiry,Absolutely! We can schedule a site visit at your convenience. Let us know your preferred time.
+What is the booking amount?,Neutral,Inquiry,The booking amount for our flats starts at ₹1 lakh. Would you like to proceed?
+Are there any hidden charges?,Negative,Concern,We believe in transparency. All charges are included in the quoted price. Feel free to ask for a breakdown.
+What is the carpet area of the 2BHK flat?,Neutral,Inquiry,The carpet area of a 2BHK flat is approximately 800 sq. ft. Let us know if you need more details.
+Do you have flats with modular kitchens?,Positive,Feature Inquiry,"Yes, our flats come with fully-equipped modular kitchens at no additional cost."
+What are the amenities available?,Neutral,Inquiry,"Our flats include amenities like a swimming pool, gym, and children's play area. The prices are inclusive of these."
+Is there any flat available under 50 lakhs?,Neutral,Budget Inquiry,"Yes, we have flats starting at ₹45 lakhs. Would you like to know the locations?"
+Do you have any ready-to-move flats?,Neutral,Inquiry,"Yes, we have several ready-to-move flats. Prices start at ₹75 lakhs. Can I provide you with more details?"
+What is the cost of a 3BHK flat?,Neutral,Inquiry,A 3BHK flat starts at ₹1 crore. Would you like to discuss financing options?
+Is there a loan facility available?,Positive,Financing,"Yes, we have tie-ups with several banks offering home loans at attractive interest rates."
+Can I visit the site before booking?,Neutral,Inquiry,Absolutely! We can schedule a site visit at your convenience. Let us know your preferred time.
+What is the booking amount?,Neutral,Inquiry,The booking amount for our flats starts at ₹1 lakh. Would you like to proceed?
+Are there any hidden charges?,Negative,Concern,We believe in transparency. All charges are included in the quoted price. Feel free to ask for a breakdown.
+What is the carpet area of the 2BHK flat?,Neutral,Inquiry,The carpet area of a 2BHK flat is approximately 800 sq. ft. Let us know if you need more details.
+Do you have flats with modular kitchens?,Positive,Feature Inquiry,"Yes, our flats come with fully-equipped modular kitchens at no additional cost."

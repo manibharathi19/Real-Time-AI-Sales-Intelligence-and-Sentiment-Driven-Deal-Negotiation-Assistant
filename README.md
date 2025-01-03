@@ -46,7 +46,7 @@ The **AI Sales Intelligence and Sentiment-Driven Deal Negotiation Assistant** is
 ## Usage
 1. Run the application:
    ```bash
-   streamlit run app.py
+   streamlit run salesbot.py
    ```
 
 2. Open your web browser and navigate to `http://localhost:8501`.

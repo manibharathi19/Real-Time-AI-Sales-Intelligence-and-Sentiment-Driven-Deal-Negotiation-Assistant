@@ -14,7 +14,7 @@ The **AI Sales Intelligence and Sentiment-Driven Deal Negotiation Assistant** is
 - **Chat History:** Maintains a history of user interactions with the assistant.
 
 ## Requirements
-- Python 3.7 or higher
+- Python 3.11 or higher
 - Streamlit
 - Requests
 - TextBlob

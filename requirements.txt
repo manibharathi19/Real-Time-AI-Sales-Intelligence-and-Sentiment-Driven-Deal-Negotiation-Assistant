@@ -1,0 +1,44 @@
+# Core dependencies
+streamlit>=1.31.0
+python-dotenv>=1.0.0
+
+# LangChain and related packages
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-groq>=0.0.1
+langchain-pinecone>=0.0.1
+
+# Vector store and embeddings
+pinecone-client>=3.0.0
+sentence-transformers>=2.2.2
+
+# Data processing and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+plotly>=5.18.0
+
+# Machine Learning
+torch>=2.1.0
+transformers>=4.36.0
+
+# Audio processing
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.13
+
+# Data handling
+openpyxl>=3.1.2
+python-docx>=1.0.0
+python-pptx>=0.6.21
+PyPDF2>=3.0.0
+unstructured>=0.10.30
+
+# API interactions
+requests>=2.31.0
+groq>=0.4.0
+
+# Utilities
+tqdm>=4.66.0
+pathlib>=1.0.1
+uuid>=1.30

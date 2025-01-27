@@ -82,7 +82,7 @@ pip install -r requirements.txt
 
 1. Start the main application:
 ```bash
-streamlit run call_analysis.py
+streamlit run app.py
 ```
 
 2. Enter your name in the interface when prompted.

@@ -7,19 +7,19 @@ A sophisticated AI-powered system that combines real-time speech recognition wit
 Here are some screenshots of the AI assistant in action:
 
 ### **1️⃣ Live Speech Recognition**
-![Live Speech Recognition](screenshots/output1.png)
+![Live Speech Recognition](screenshots/output1.jpeg)
 
 ### **2️⃣ AI Chatbot Response**
-![AI Chatbot Response](screenshots/output2.png)
+![AI Chatbot Response](screenshots/output2.jpeg)
 
 ### **3️⃣ Sentiment Analysis Results**
-![Sentiment Analysis](screenshots/output3.png)
+![Sentiment Analysis](screenshots/output3.jpeg)
 
 ### **4️⃣ Customer Engagement Metrics**
-![Engagement Metrics](screenshots/output4.png)
+![Engagement Metrics](screenshots/output4.jpeg)
 
 ### **5️⃣ Final Deal Summary**
-![Final Deal Summary](screenshots/output5.png)
+![Final Deal Summary](screenshots/output5.jpeg)
 
 ## Features
 ### Speech Recognition and Processing

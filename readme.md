@@ -21,6 +21,9 @@ Here are some screenshots of the AI assistant in action:
 ### **5️⃣ Deal & negotiation Speech Recognition**
 ![Final Deal Summary](screenshots/output5.jpeg)
 
+### **5️⃣ Post Call Summaries**
+![Final Deal Summary](screenshots/output6.png)
+
 ## Features
 ### Speech Recognition and Processing
 - Real-time speech-to-text conversion

@@ -2,8 +2,26 @@
 
 A sophisticated AI-powered system that combines real-time speech recognition with intelligent chatbot capabilities for real estate negotiations. The system processes live conversations, provides instant responses, and analyzes conversation metrics for better customer engagement.
 
-## Features
+## Output Screenshots
 
+Here are some screenshots of the AI assistant in action:
+
+### **1️⃣ Live Speech Recognition**
+![Live Speech Recognition](screenshots/output1.png)
+
+### **2️⃣ AI Chatbot Response**
+![AI Chatbot Response](screenshots/output2.png)
+
+### **3️⃣ Sentiment Analysis Results**
+![Sentiment Analysis](screenshots/output3.png)
+
+### **4️⃣ Customer Engagement Metrics**
+![Engagement Metrics](screenshots/output4.png)
+
+### **5️⃣ Final Deal Summary**
+![Final Deal Summary](screenshots/output5.png)
+
+## Features
 ### Speech Recognition and Processing
 - Real-time speech-to-text conversion
 - Continuous conversation monitoring

@@ -29,48 +29,21 @@ A sophisticated AI-powered system that combines real-time speech recognition wit
 
 ### API Keys
 You'll need the following API keys:
-- Pinecone API key
 - Groq API key
-
-### Required Libraries
-```bash
-pip install streamlit
-pip install langchain
-pip install langchain-groq
-pip install langchain-community
-pip install langchain-pinecone
-pip install pinecone-client
-pip install python-dotenv
-pip install plotly
-pip install pandas
-pip install torch
-pip install sentence-transformers
-```
-
-## Project Structure
-
-```
-├── call_analysis.py        # Speech recognition and analysis
-├── deal.py                 # Chatbot and conversation handling
-├── speech_recognition_handler.py  # Speech processing
-├── text_analysis_handler.py       # Text analysis functions
-└── config.py              # Configuration and API keys
-```
+- Wit API Key
 
 ## Setup Instructions
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/manibharathi19/Real-Time-AI-Sales-Intelligence-and-Sentiment-Driven-Deal-Negotiation-Assistant
 cd real-estate-ai-assistant
 ```
 
 2. Create a `.env` file in the project root with your API keys:
 ```env
-PINECONE_API_KEY=your_pinecone_key
 GROQ_API_KEY=your_groq_key
-PINECONE_CLOUD=aws
-PINECONE_REGION=us-east-1
+Wit_API = your_Wit_key
 ```
 
 3. Install dependencies:
@@ -169,14 +142,6 @@ intent_conversion_weights = {
    - Check available disk space
    - Ensure proper file path configuration
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details
@@ -191,4 +156,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 
-For support, please open an issue in the repository or contact the development team.
+For support, please open an issue in the repository or contact Me
